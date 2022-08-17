@@ -1,0 +1,17 @@
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\bin\Debug\net6.0-windows\WinFormsAppFileExplorer.exe
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\bin\Debug\net6.0-windows\WinFormsAppFileExplorer.deps.json
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\bin\Debug\net6.0-windows\WinFormsAppFileExplorer.runtimeconfig.json
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\bin\Debug\net6.0-windows\WinFormsAppFileExplorer.dll
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\bin\Debug\net6.0-windows\WinFormsAppFileExplorer.pdb
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\obj\Debug\net6.0-windows\WinFormsAppFileExplorer.csproj.AssemblyReference.cache
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\obj\Debug\net6.0-windows\WinFormsAppFileExplorer.Form1.resources
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\obj\Debug\net6.0-windows\WinFormsAppFileExplorer.csproj.GenerateResource.cache
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\obj\Debug\net6.0-windows\WinFormsAppFileExplorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\obj\Debug\net6.0-windows\WinFormsAppFileExplorer.AssemblyInfoInputs.cache
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\obj\Debug\net6.0-windows\WinFormsAppFileExplorer.AssemblyInfo.cs
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\obj\Debug\net6.0-windows\WinFormsAppFileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\obj\Debug\net6.0-windows\WinFormsAppFileExplorer.dll
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\obj\Debug\net6.0-windows\refint\WinFormsAppFileExplorer.dll
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\obj\Debug\net6.0-windows\WinFormsAppFileExplorer.pdb
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\obj\Debug\net6.0-windows\WinFormsAppFileExplorer.genruntimeconfig.cache
+C:\Users\Yigit\source\repos\WinFormsAppFileExplorer\WinFormsAppFileExplorer\obj\Debug\net6.0-windows\ref\WinFormsAppFileExplorer.dll
